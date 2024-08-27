@@ -195,7 +195,7 @@
 		"@types/body-parser": "1.19.5",
 		"@types/color-convert": "2.0.3",
 		"@types/content-disposition": "0.5.8",
-		"@types/fluent-ffmpeg": "2.1.24",
+		"@types/fluent-ffmpeg": "2.1.26",
 		"@types/htmlescape": "1.1.3",
 		"@types/http-link-header": "1.0.7",
 		"@types/jest": "29.5.12",
